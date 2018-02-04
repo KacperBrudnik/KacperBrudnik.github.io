@@ -1,0 +1,94 @@
+body{
+	font-size: 30px;
+	font-family: 'Indie Flower', cursive;
+	margin: 0;
+	text-align: center;
+}
+
+
+
+.background-img {
+	background-image: url(../image/image3.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0;
+}
+
+.background-img-two {
+	background-image: url(../image/zakopane.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0;
+}
+
+
+.text-header{
+	color: #dc3535;
+	padding-top: 40vh;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+
+
+img{
+	height: 300px;
+	width: 250px;
+
+}
+
+
+.background-img-3 {
+	background-image: url(../image/zima.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0;
+}
+
+#My_Hobbies {
+	color: #0a0080;
+	font-weight: bold;
+}
+
+.background-img-4 {
+	background-image: url(../image/gory.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0;
+}
+
+
+.background-img-5 {
+	background-image: url(../image/bieszczady.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	margin: 0;
+}
+
+
+.flower{
+
+	font-family: 'Rammetto One', cursive;
+
+}
+
